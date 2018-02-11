@@ -1,0 +1,16 @@
+C:\Users\Yato\Desktop\Benchmark\Benchmark\bin\Release\Benchmark.exe.config
+C:\Users\Yato\Desktop\Benchmark\Benchmark\bin\Release\Benchmark.exe
+C:\Users\Yato\Desktop\Benchmark\Benchmark\bin\Release\Benchmark.pdb
+C:\Users\Yato\Desktop\Benchmark\Benchmark\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Yato\Desktop\Benchmark\Benchmark\bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\MainWindow.g.cs
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\App.g.cs
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\Benchmark_MarkupCompile.cache
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\Benchmark_MarkupCompile.lref
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\MainWindow.baml
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\Benchmark.g.resources
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\Benchmark.Properties.Resources.resources
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\Benchmark.csproj.GenerateResource.Cache
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\Benchmark.csproj.CoreCompileInputs.cache
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\Benchmark.exe
+C:\Users\Yato\Desktop\Benchmark\Benchmark\obj\Release\Benchmark.pdb
